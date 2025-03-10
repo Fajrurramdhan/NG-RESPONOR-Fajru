@@ -1,0 +1,17 @@
+# Virtual environment
+.env/
+venv/
+env/
+
+
+
+# Docker files
+Dockerfile
+docker-compose.yml
+*.dockerignore
+
+
+# Python cache
+__pycache__/
+*.pyc
+
